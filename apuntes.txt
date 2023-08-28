@@ -1,0 +1,5 @@
+Jupyter Notebook en un Entorno Virtual
+https://www.youtube.com/watch?v=lp6nR_BtFEs&ab_channel=PyarmandoAcademy
+(activar y descativar entorno virtual)
+
+

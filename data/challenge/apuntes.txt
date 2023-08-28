@@ -1,0 +1,12 @@
+Jupyter Notebook en un Entorno Virtual
+https://www.youtube.com/watch?v=lp6nR_BtFEs&ab_channel=PyarmandoAcademy
+(activar y descativar entorno virtual)
+
+
+Importar un Archivo TXT o CSV para Excel
+https://www.youtube.com/shorts/l-ddi7ZA6GI'
+
+
+Cómo Filtrar Datos en un DataFrame de Pandas en Python
+https://www.youtube.com/watch?v=adEg-sx8v14&ab_channel=Dr.Xabi
+
